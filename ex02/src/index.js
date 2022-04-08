@@ -1,6 +1,6 @@
-function funcionPrintInfo(name, age){
+function functionPrintInfo(name, age){
     console.log(name, age);
 }
-funcionPrintInfo("John", 23);
-funcionPrintInfo("Michael", 43);
-module.exports = funcionPrintInfo;
+functionPrintInfo("John", 23);
+functionPrintInfo("Michael", 43);
+module.exports = functionPrintInfo;

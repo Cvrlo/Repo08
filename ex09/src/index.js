@@ -1,8 +1,8 @@
-function radnomInteger(){
+function randomInteger(){
     
    return Math.floor(Math.random() * 30);
     
     
 }
-    console.log(radnomInteger());
-    module.exports = radnomInteger;
+    console.log(randomInteger());
+    module.exports = randomInteger;
